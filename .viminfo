@@ -21,13 +21,13 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1536846666,,"wq"
+|2,0,1536846745,,"wq"
+:q!
+|2,0,1536846730,,"q!"
 :w
-|2,0,1536845738,,"w"
+|2,0,1536846407,,"w"
 :q
 |2,0,1536845702,,"q"
-:q!
-|2,0,1536843232,,"q!"
 :/13
 |2,0,1536837724,,"/13"
 :set paste
@@ -136,9 +136,9 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	for_window [class="(?i)urxvt"] border normal
-|3,1,0,1,1,0,1536845397,"for_window [class=\"(?i)urxvt\"] border normal"
+|3,0,0,1,1,0,1536845397,"for_window [class=\"(?i)urxvt\"] border normal"
 "1	LINE	0
 	#                       BORDER      BACKGROUND  TEXT        INDICATOR   CHILD_BORDER
 	client.focused          $black      $black      $darkwhite  $darkblack  $darkblack
@@ -274,37 +274,65 @@ $
 	*.color15:      #ffffff
 |3,0,9,1,36,0,1536838449,"! special","*.foreground:   #cccccc","*.background:   #181818","*.cursorColor:  #cccccc","","! black","*.color0:       #666666","*.color8:       #999999","","! red","*.color1:       #cc6699","*.color9:       #ff99cc","","! green","*.color2:       #99cc66","*.color10:      #ccff99","","! yellow","*.color3:       #cc9966","*.color11:      #ffcc99","","! blue","*.color4:       #6699cc","*.color12:      #99ccff","","! magenta",>25
 |<"*.color5:       #9966cc","*.color13:      #cc99ff","","! cyan","*.color6:       #66cc99","*.color14:      #99ffcc","","! white","*.color7:       #cccccc","*.color15:      #ffffff"
-"-	CHAR	0
-	R
-|3,0,36,0,1,0,1536845128,"R"
+""-	CHAR	0
+	,
+|3,1,36,0,1,0,1536846743,","
 
 # File marks:
-'0  38  19  ~/.Xresources
-|4,48,38,19,1536846666,"~/.Xresources"
-'1  4  0  ~/arch-setup/dotfiles/backup.sh
-|4,49,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
-'2  298  45  ~/.config/i3/config
-|4,50,298,45,1536845743,"~/.config/i3/config"
-'3  298  45  ~/.config/i3/config
-|4,51,298,45,1536845702,"~/.config/i3/config"
-'4  298  45  ~/.config/i3/config
-|4,52,298,45,1536845684,"~/.config/i3/config"
-'5  298  45  ~/.config/i3/config
-|4,53,298,45,1536845684,"~/.config/i3/config"
-'6  299  53  ~/.config/i3/config
-|4,54,299,53,1536845516,"~/.config/i3/config"
-'7  299  53  ~/.config/i3/config
-|4,55,299,53,1536845516,"~/.config/i3/config"
-'8  299  53  ~/.config/i3/config
-|4,56,299,53,1536845516,"~/.config/i3/config"
-'9  299  53  ~/.config/i3/config
-|4,57,299,53,1536845516,"~/.config/i3/config"
+'0  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,48,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
+'1  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,49,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'2  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,50,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'3  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,51,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
+'4  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,52,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
+'5  38  19  ~/.Xresources
+|4,53,38,19,1536846666,"~/.Xresources"
+'6  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,54,6,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+'7  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,55,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+'8  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,56,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+'9  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,57,6,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
 
 # Jumplist (newest first):
+-'  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,39,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846732,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
 -'  38  19  ~/.Xresources
 |4,39,38,19,1536846666,"~/.Xresources"
 -'  79  0  ~/.Xresources
 |4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
 -'  4  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
 -'  4  0  ~/arch-setup/dotfiles/backup.sh
@@ -322,6 +350,42 @@ $
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845743,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845702,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845702,"~/.config/i3/config"
@@ -329,6 +393,66 @@ $
 |4,39,298,45,1536845702,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845702,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
+-'  298  45  ~/.config/i3/config
+|4,39,298,45,1536845684,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845684,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
@@ -362,147 +486,36 @@ $
 -'  299  53  ~/.config/i3/config
 |4,39,299,53,1536845645,"~/.config/i3/config"
 -'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845516,"~/.config/i3/config"
+|4,39,299,53,1536845645,"~/.config/i3/config"
 -'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845516,"~/.config/i3/config"
+|4,39,299,53,1536845645,"~/.config/i3/config"
 -'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845516,"~/.config/i3/config"
+|4,39,299,53,1536845645,"~/.config/i3/config"
 -'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845516,"~/.config/i3/config"
--'  299  30  ~/.config/i3/config
-|4,39,299,30,1536845416,"~/.config/i3/config"
--'  299  30  ~/.config/i3/config
-|4,39,299,30,1536845416,"~/.config/i3/config"
--'  299  30  ~/.config/i3/config
-|4,39,299,30,1536845416,"~/.config/i3/config"
--'  299  30  ~/.config/i3/config
-|4,39,299,30,1536845416,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845344,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845323,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845323,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845323,"~/.config/i3/config"
--'  298  27  ~/.config/i3/config
-|4,39,298,27,1536845323,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845258,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845239,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845239,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845239,"~/.config/i3/config"
--'  294  82  ~/.config/i3/config
-|4,39,294,82,1536845239,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
--'  297  0  ~/.config/i3/config
-|4,39,297,0,1536845047,"~/.config/i3/config"
+|4,39,299,53,1536845645,"~/.config/i3/config"
+-'  299  53  ~/.config/i3/config
+|4,39,299,53,1536845645,"~/.config/i3/config"
+-'  299  53  ~/.config/i3/config
+|4,39,299,53,1536845645,"~/.config/i3/config"
+-'  299  53  ~/.config/i3/config
+|4,39,299,53,1536845645,"~/.config/i3/config"
+-'  299  53  ~/.config/i3/config
+|4,39,299,53,1536845645,"~/.config/i3/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/arch-setup/dotfiles/backup.sh
+	*	1536846744	0
+	"	7	45
+	^	15	8
+	.	7	45
+	+	5	16
+	+	7	103
+	+	9	47
+	+	13	14
+	+	2	0
+	+	15	8
+	+	7	45
 
 > ~/.Xresources
 	*	1536846665	0
@@ -608,13 +621,6 @@ $
 	+	33	28
 	+	33	0
 	+	38	19
-
-> ~/arch-setup/dotfiles/backup.sh
-	*	1536845820	0
-	"	4	0
-	^	4	0
-	.	3	16
-	+	3	16
 
 > ~/.config/i3/config
 	*	1536845738	0
