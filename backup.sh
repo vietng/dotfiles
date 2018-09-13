@@ -8,7 +8,7 @@ rsync -ar /usr/share/X11 ~/arch-setup/dotfiles/
 
 git add --all
 
-git commit -m "$DATE"
+git commit -m "$DATE" > /dev/null
 
 git push > /dev/null
 
