@@ -21,19 +21,19 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1536846745,,"wq"
+|2,0,1536846903,,"wq"
+:q
+|2,0,1536846862,,"q"
+:set mouse-=a
+|2,0,1536845911,,"set mouse-=a"
 :q!
 |2,0,1536846730,,"q!"
 :w
 |2,0,1536846407,,"w"
-:q
-|2,0,1536845702,,"q"
 :/13
 |2,0,1536837724,,"/13"
 :set paste
 |2,0,1536828575,,"set paste"
-:set mouse-=a
-|2,0,1536824771,,"set mouse-=a"
 ::w
 |2,0,1536821192,,":w"
 :.,.+1!
@@ -275,38 +275,56 @@ $
 |3,0,9,1,36,0,1536838449,"! special","*.foreground:   #cccccc","*.background:   #181818","*.cursorColor:  #cccccc","","! black","*.color0:       #666666","*.color8:       #999999","","! red","*.color1:       #cc6699","*.color9:       #ff99cc","","! green","*.color2:       #99cc66","*.color10:      #ccff99","","! yellow","*.color3:       #cc9966","*.color11:      #ffcc99","","! blue","*.color4:       #6699cc","*.color12:      #99ccff","","! magenta",>25
 |<"*.color5:       #9966cc","*.color13:      #cc99ff","","! cyan","*.color6:       #66cc99","*.color14:      #99ffcc","","! white","*.color7:       #cccccc","*.color15:      #ffffff"
 ""-	CHAR	0
-	,
-|3,1,36,0,1,0,1536846743,","
+	cp -ar ~/{.X*,.x*,.config/i3,.bash*,.profile,.viminfo,.gitconfig} ~/arch-setup/config
+|3,1,36,0,1,0,1536846778,"cp -ar ~/{.X*,.x*,.config/i3,.bash*,.profile,.viminfo,.gitconfig} ~/arch-setup/config"
 
 # File marks:
-'0  7  45  ~/arch-setup/dotfiles/backup.sh
-|4,48,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
-'1  1  0  ~/arch-setup/dotfiles/backup.sh
-|4,49,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
-'2  1  0  ~/arch-setup/dotfiles/backup.sh
-|4,50,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
-'3  1  0  ~/arch-setup/dotfiles/backup.sh
-|4,51,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
+'0  37  70  ~/.bashrc
+|4,48,37,70,1536846903,"~/.bashrc"
+'1  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,49,7,45,1536846862,"~/arch-setup/dotfiles/backup.sh"
+'2  37  54  ~/.bashrc
+|4,50,37,54,1536846804,"~/.bashrc"
+'3  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,51,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
 '4  1  0  ~/arch-setup/dotfiles/backup.sh
-|4,52,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
-'5  38  19  ~/.Xresources
-|4,53,38,19,1536846666,"~/.Xresources"
-'6  6  0  ~/arch-setup/dotfiles/backup.sh
-|4,54,6,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
-'7  4  0  ~/arch-setup/dotfiles/backup.sh
-|4,55,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
-'8  4  0  ~/arch-setup/dotfiles/backup.sh
-|4,56,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
-'9  6  0  ~/arch-setup/dotfiles/backup.sh
-|4,57,6,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+|4,52,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'5  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,53,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'6  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,54,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'7  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,55,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+'8  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,56,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
+'9  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,57,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
 
 # Jumplist (newest first):
+-'  37  70  ~/.bashrc
+|4,39,37,70,1536846903,"~/.bashrc"
+-'  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,39,7,45,1536846862,"~/arch-setup/dotfiles/backup.sh"
+-'  37  54  ~/.bashrc
+|4,39,37,54,1536846804,"~/.bashrc"
+-'  37  54  ~/.bashrc
+|4,39,37,54,1536846804,"~/.bashrc"
+-'  7  45  ~/arch-setup/dotfiles/backup.sh
+|4,39,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
 -'  7  45  ~/arch-setup/dotfiles/backup.sh
 |4,39,7,45,1536846745,"~/arch-setup/dotfiles/backup.sh"
 -'  1  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,1,0,1536846732,"~/arch-setup/dotfiles/backup.sh"
 -'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846732,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846732,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846730,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
 -'  1  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,1,0,1536846725,"~/arch-setup/dotfiles/backup.sh"
 -'  38  19  ~/.Xresources
@@ -317,6 +335,38 @@ $
 |4,39,38,19,1536846666,"~/.Xresources"
 -'  38  19  ~/.Xresources
 |4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  38  19  ~/.Xresources
+|4,39,38,19,1536846666,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
+-'  79  0  ~/.Xresources
+|4,39,79,0,1536846656,"~/.Xresources"
 -'  79  0  ~/.Xresources
 |4,39,79,0,1536846656,"~/.Xresources"
 -'  79  0  ~/.Xresources
@@ -329,6 +379,22 @@ $
 |4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
 -'  6  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  6  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,6,0,1536845894,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
+-'  4  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
 -'  4  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,4,0,1536845821,"~/arch-setup/dotfiles/backup.sh"
 -'  4  0  ~/arch-setup/dotfiles/backup.sh
@@ -341,6 +407,16 @@ $
 |4,39,1,0,1536845796,"~/arch-setup/dotfiles/backup.sh"
 -'  1  0  ~/arch-setup/dotfiles/backup.sh
 |4,39,1,0,1536845796,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536845796,"~/arch-setup/dotfiles/backup.sh"
+-'  1  0  ~/arch-setup/dotfiles/backup.sh
+|4,39,1,0,1536845796,"~/arch-setup/dotfiles/backup.sh"
+-'  42  8  ~/.bashrc
+|4,39,42,8,1536845771,"~/.bashrc"
+-'  42  8  ~/.bashrc
+|4,39,42,8,1536845771,"~/.bashrc"
+-'  42  8  ~/.bashrc
+|4,39,42,8,1536845771,"~/.bashrc"
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
@@ -382,130 +458,123 @@ $
 -'  298  45  ~/.config/i3/config
 |4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845702,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 -'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  298  45  ~/.config/i3/config
-|4,39,298,45,1536845684,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
--'  299  53  ~/.config/i3/config
-|4,39,299,53,1536845645,"~/.config/i3/config"
+|4,39,298,45,1536845743,"~/.config/i3/config"
 
 # History of marks within files (newest to oldest):
 
+> ~/.bashrc
+	*	1536846902	0
+	"	37	70
+	^	37	71
+	.	37	70
+	+	14	14
+	+	15	19
+	+	16	26
+	+	17	13
+	+	17	24
+	+	17	12
+	+	18	0
+	+	17	0
+	+	18	0
+	+	18	14
+	+	18	15
+	+	18	0
+	+	18	99
+	+	18	103
+	+	18	49
+	+	19	14
+	+	87	0
+	+	19	39
+	+	17	12
+	+	18	44
+	+	87	0
+	+	88	0
+	+	1	0
+	+	87	0
+	+	88	56
+	+	89	0
+	+	90	0
+	+	94	0
+	+	20	0
+	+	74	0
+	+	20	0
+	+	20	30
+	+	23	17
+	+	23	29
+	+	24	28
+	+	25	29
+	+	26	31
+	+	32	31
+	+	33	31
+	+	34	29
+	+	35	0
+	+	42	0
+	+	75	0
+	+	74	0
+	+	85	0
+	+	31	19
+	+	30	19
+	+	29	21
+	+	36	39
+	+	37	120
+	+	37	78
+	+	8	24
+	+	10	2
+	+	9	9
+	+	38	16
+	+	9	0
+	+	39	16
+	+	40	17
+	+	42	0
+	+	36	29
+	+	41	25
+	+	42	8
+	+	37	70
+
 > ~/arch-setup/dotfiles/backup.sh
-	*	1536846744	0
+	*	1536846859	0
 	"	7	45
 	^	15	8
 	.	7	45
@@ -821,74 +890,6 @@ $
 	^	2	6
 	.	2	5
 	+	2	5
-
-> ~/.bashrc
-	*	1536834857	0
-	"	42	8
-	^	42	9
-	.	42	8
-	+	14	14
-	+	15	19
-	+	16	26
-	+	17	13
-	+	17	24
-	+	17	12
-	+	18	0
-	+	17	0
-	+	18	0
-	+	18	14
-	+	18	15
-	+	18	0
-	+	18	99
-	+	18	103
-	+	18	49
-	+	19	14
-	+	87	0
-	+	19	39
-	+	17	12
-	+	18	44
-	+	87	0
-	+	88	0
-	+	1	0
-	+	87	0
-	+	88	56
-	+	89	0
-	+	90	0
-	+	94	0
-	+	20	0
-	+	74	0
-	+	20	0
-	+	20	30
-	+	23	17
-	+	23	29
-	+	24	28
-	+	25	29
-	+	26	31
-	+	32	31
-	+	33	31
-	+	34	29
-	+	35	0
-	+	42	0
-	+	75	0
-	+	74	0
-	+	85	0
-	+	31	19
-	+	30	19
-	+	29	21
-	+	36	39
-	+	37	120
-	+	37	78
-	+	8	24
-	+	10	2
-	+	9	9
-	+	38	16
-	+	9	0
-	+	39	16
-	+	40	17
-	+	42	0
-	+	36	29
-	+	41	25
-	+	42	8
 
 > /usr/share/X11/xkb/rules/xorg.xml
 	*	1536831780	0
