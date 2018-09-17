@@ -1,6 +1,18 @@
 i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
 i3status: trying to auto-detect output_format setting
 i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
 i3status: auto-detected "i3bar"
 Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
 Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
@@ -125,27 +137,61 @@ Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 5: invalid attribu
 Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'xmlns:its'
 Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'version'
 Fontconfig error: Cannot load config file from /etc/fonts/fonts.conf
-[1520:1520:0913/213356.147690:ERROR:sandbox_linux.cc(378)] InitializeSandbox() called with multiple threads in process gpu-process.
-[1484:1542:0913/213356.188795:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[1484:1543:0913/213356.910974:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1484:1543:0913/213356.911028:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
-[1484:1484:0913/213358.914647:ERROR:textfield.cc(1754)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
-Exiting due to signal.
-Exiting due to signal.
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-Exiting due to signal.
-Exiting due to signal.
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-Exiting due to signal.
-Exiting due to signal.
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-i3status: trying to auto-detect output_format setting
-i3status: auto-detected "i3bar"
-[140:244:0913/214616.473240:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6213:6263:0917/192540.667259:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[6249:6249:0917/192540.667678:ERROR:sandbox_linux.cc(378)] InitializeSandbox() called with multiple threads in process gpu-process.
+[6213:6272:0917/192541.146914:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0917/192541.146944:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0917/192911.557812:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0917/192911.557833:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6228:0917/193142.140299:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0917/193142.157038:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0917/193142.174046:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0917/193142.300133:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6249:6249:0917/193504.472494:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40c650fe00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0917/193504.472549:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.472621:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40c650fe00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0917/193504.472648:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.525993:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.526288:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.545123:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.545205:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.548862:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.549130:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.565611:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.565769:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.591353:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.591513:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.621903:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.621995:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.663519:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.663638:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.682411:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.682571:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.714059:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/193504.714220:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6213:7937:0917/193536.541515:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0917/193536.541721:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0917/193536.541899:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6213:0917/193543.315248:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0917/193544.244968:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  45076
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  45077
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  45078
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:6272:0917/212653.217510:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0917/212653.217541:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
