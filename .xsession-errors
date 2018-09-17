@@ -195,3 +195,11 @@ urxvt: + (which is an unknown extension)
 urxvt: + Minor opcode of failed request:  20
 [6213:6272:0917/212653.217510:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
 [6213:6272:0917/212653.217541:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0917/214258.712590:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40c650fe00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0917/214258.712723:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/214258.712833:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40c650fe00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0917/214258.713017:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/214258.719969:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/214258.720038:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/214258.913039:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0917/214258.913230:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40c650fe00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
