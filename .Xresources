@@ -5,8 +5,8 @@ Xft.antialias: 1
 Xft.hinting: 1
 Xft.hintstyle: hintfull
 Xft.cursor: 15
-!Xft.dpi: 120
-Xft.dpi: 92
+Xft.dpi: 120
+!Xft.dpi: 92
 Xft.autohint: 0
 Xft.lcdfilter:  lcddefault
 
@@ -16,7 +16,7 @@ URxvt.keysym.Control-Up:     \033[1;5A
 URxvt.keysym.Control-Down:   \033[1;5B
 URxvt.keysym.Control-Left:   \033[1;5D
 URxvt.keysym.Control-Right:  \033[1;5C
-URxvt.keysym.Control-l:      echo -ne '\\033c'\n
+!URxvt.keysym.Control-l:      echo -ne '\\033c'\n
 
 URxvt*saveLines:              10000
 

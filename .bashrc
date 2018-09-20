@@ -37,9 +37,11 @@ alias vwork='xrandr --auto && ~/.screenlayout/work.sh'
 alias vbackup='cd /home/viet/arch-setup/dotfiles && ./backup.sh && cd -'
 alias sc='screen'
 alias xc='xclip'
-alias clr='clear'
+alias clr="echo -ne '\\033c'\n"
 alias gp='grep --color -rni'
 alias mw='i3-msg move workspace to output'
+alias swkb='~/arch-setup/dotfiles/swkb.sh'
+alias uswkb='~/arch-setup/dotfiles/uswkb.sh'
 durbin(){
 ssh amristar@durbin.amristar.com
 }
