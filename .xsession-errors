@@ -1833,3 +1833,1301 @@ Fontconfig error: Cannot load config file from /etc/fonts/fonts.conf
 [6213:6213:0920/145209.837622:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
 [6213:6213:0920/145211.946551:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
 [6213:6213:0920/145214.093029:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:7937:0920/152937.399487:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/152937.399841:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/152937.400127:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0920/183257.690047:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0920/183257.690078:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0920/183313.881775:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/183313.882090:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/183313.882421:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2010584
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2010585
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2010586
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2012743
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2012744
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2012745
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2017544
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2017545
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2017546
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2025028
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2025029
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2025030
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2027895
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2027896
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2027897
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2034774
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2034775
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2034776
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2037961
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2037962
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2037963
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-4:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2046665
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2046666
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2046667
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-4:slant=0:weight=100:minspace=True', ignoring.
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2062588
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2062589
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2062590
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2068898
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2068899
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2068900
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2077883
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2077884
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2077885
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2080037
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2080038
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2080039
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2082905
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2082906
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2082907
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2084788
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2084789
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2084790
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2088541
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2088542
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2088543
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2090183
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2090184
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2090185
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2096266
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2096267
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2096268
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2100382
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2100383
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2100384
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2107020
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2107021
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2107022
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2109313
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2109314
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2109315
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2112710
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2112711
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2112712
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2114288
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2114289
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2114290
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2119768
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2119769
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2119770
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2122918
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2122919
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2122920
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2129996
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2129997
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2129998
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2132843
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2132844
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2132845
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2137908
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2137909
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2137910
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2139994
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2139995
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2139996
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2143337
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2143338
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2143339
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2150289
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2150290
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2150291
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2153184
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2153185
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  2153186
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:6213:0920/185116.386411:ERROR:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source:  (0)
+[6213:6228:0920/193926.167630:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.196367:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.241648:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.256922:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.271988:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.286604:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.302261:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.347772:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.362564:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.377282:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.392867:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.408078:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.424779:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.440197:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.471197:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.486313:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.502100:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.517538:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0920/193926.532939:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:7937:0920/201454.440761:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/201454.441542:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/201454.442260:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0920/202250.584704:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0920/202250.584733:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0920/202401.997332:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202401.997652:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202401.998978:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202614.367117:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202614.367406:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202614.367655:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202638.687239:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202638.687734:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/202638.688127:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  738
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  739
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  740
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4952
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4953
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4954
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  6399
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  6400
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  6401
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-fonts-persian.conf", line 34: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 36: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 36: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/69-unifont.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/69-unifont.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/80-delicious.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/80-delicious.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/90-synthetic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/90-synthetic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'version'
+Fontconfig error: Cannot load config file from /etc/fonts/fonts.conf
+[11691:11691:0920/203859.545827:ERROR:sandbox_linux.cc(378)] InitializeSandbox() called with multiple threads in process gpu-process.
+[6213:6272:0920/205721.317394:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0920/205721.317427:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21939
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21940
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21941
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  85433
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  85434
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  85435
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:7937:0920/214018.596013:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214018.596739:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214018.597450:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0920/214019.694373:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0920/214019.694408:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0920/214351.726673:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214351.727073:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214351.727563:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6213:0920/214354.639454:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214355.559162:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214356.490406:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214357.360692:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214358.316619:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214359.191591:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214400.064710:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/214400.925580:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:7937:0920/214438.915478:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214438.916097:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214438.916658:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214604.128858:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214604.129392:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214604.129794:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214625.289662:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214625.290255:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214625.290685:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214628.023844:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214628.024170:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/214628.024522:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/215027.627929:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/215027.628304:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0920/215027.630140:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6213:0920/215056.140724:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/215056.993013:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/215057.862422:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0920/215058.845549:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1935
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1936
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1937
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:6272:0920/232648.133887:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0920/232648.133934:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0921/170748.698081:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0921/170748.698105:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0921/170829.351209:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0921/170829.351237:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0921/170835.793534:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0921/170835.793760:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0921/170835.793941:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6249:6249:0924/050730.418384:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.99943 s, last_timebase_=145408015312 bogo-microseconds, timebase=145992681948 bogo-microseconds, last_media_stream_counter_=8076100, media_stream_counter=8076685
+[6213:6272:0924/050734.614110:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/050734.614140:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[22217:22250:0924/050911.967138:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6213:7937:0924/050920.595702:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/050920.595970:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/050920.596221:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6213:0924/050922.492104:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+[6213:6213:0924/050923.566047:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0924/050924.801826:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[6213:6213:0924/050926.051354:ERROR:latency_info.cc(163)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[22399:22451:0924/051002.972560:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6213:15958:0924/051014.960260:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for grey.erne.co failed err=-8181
+[6213:7937:0924/051015.791285:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/051015.792334:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/051015.793364:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/051039.094785:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/051039.095163:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/051039.095523:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0924/053134.372622:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/053134.372666:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/075213.831359:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/075213.831388:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/082810.555451:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999829 s, last_timebase_=156823028991 bogo-microseconds, timebase=158032823278 bogo-microseconds, last_media_stream_counter_=8312884, media_stream_counter=8314094
+[6249:6249:0924/090800.737712:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00008 s, last_timebase_=158032823278 bogo-microseconds, timebase=160423005573 bogo-microseconds, last_media_stream_counter_=8314094, media_stream_counter=8316484
+[6249:6249:0924/100800.900489:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00005 s, last_timebase_=160423005573 bogo-microseconds, timebase=164023168348 bogo-microseconds, last_media_stream_counter_=8316484, media_stream_counter=8320084
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1186
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1187
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1188
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16613
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16614
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16615
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  17600
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  17601
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  17602
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  18421
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  18422
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  18423
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19175
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19176
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19177
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19750
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19751
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  19752
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  20510
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  20511
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  20512
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21299
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21300
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  21301
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  22099
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  22100
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  22101
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6249:6249:0924/110800.565557:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999903 s, last_timebase_=164023168348 bogo-microseconds, timebase=167622820003 bogo-microseconds, last_media_stream_counter_=8320084, media_stream_counter=8323684
+[6213:6272:0924/112155.151834:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/112155.151855:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/120126.876833:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40cc6a3a00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0924/120126.876918:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40cc6a3a00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0924/120126.876974:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40cc6a3a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0924/120126.877091:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40cc6a3a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6213:6272:0924/123001.887285:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/123001.887308:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0924/123202.268186:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/123202.268621:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/123202.269032:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0924/123223.471606:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/123223.471635:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[22749:23642:0924/133336.865441:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6213:7937:0924/133338.242549:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/133338.242822:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/133338.243079:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0924/135228.775024:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/135228.775046:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/145049.941781:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/145049.941805:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/160801.140247:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00002 s, last_timebase_=182023348202 bogo-microseconds, timebase=185623408095 bogo-microseconds, last_media_stream_counter_=8778978, media_stream_counter=8782578
+[6213:6272:0924/163824.415136:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/163824.415196:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/163920.693177:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/163920.693217:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/165510.249713:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/165510.249757:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/170801.182552:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00001 s, last_timebase_=185623408095 bogo-microseconds, timebase=189223450403 bogo-microseconds, last_media_stream_counter_=8782578, media_stream_counter=8786178
+[6213:6272:0924/171317.536126:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/171317.536154:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/180404.659752:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/180404.659796:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/180801.398931:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999782 s, last_timebase_=189223450403 bogo-microseconds, timebase=192823666786 bogo-microseconds, last_media_stream_counter_=8786178, media_stream_counter=8789779
+[6249:6249:0924/190801.308235:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999974 s, last_timebase_=192823666786 bogo-microseconds, timebase=196423576073 bogo-microseconds, last_media_stream_counter_=8789779, media_stream_counter=8793379
+[6213:6272:0924/194135.629322:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/194135.629369:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/194703.760115:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/194703.760137:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/194814.088808:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/194814.088839:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/195625.297423:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/195625.297443:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/195725.515078:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/195725.515121:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/200628.392909:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/200628.392940:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6249:6249:0924/200801.533005:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00006 s, last_timebase_=196423576073 bogo-microseconds, timebase=200023793938 bogo-microseconds, last_media_stream_counter_=8793379, media_stream_counter=8796979
+[6213:6272:0924/200853.371078:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/200853.371100:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6228:0924/200959.048351:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.066062:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.084933:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.174966:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.193363:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.250718:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.268734:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.287117:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.321512:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.377517:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.396093:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.413803:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.431340:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0924/200959.449724:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6272:0924/201124.907683:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/201124.907744:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/201339.129067:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/201339.129089:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/201927.087520:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/201927.087540:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/202327.313759:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/202327.313789:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/211945.728348:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/211945.728432:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/212008.733313:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/212008.733336:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0924/213040.825043:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213040.825432:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213040.825740:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6249:6249:0924/213043.728228:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40cc6a3a00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0924/213043.728409:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40cc6a3a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0924/213043.777007:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40cc6a3a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6213:6272:0924/213511.439610:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/213511.439633:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0924/213921.881169:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213921.882019:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213921.882568:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213954.201079:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213954.201969:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/213954.202728:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+sh: lpr: command not found
+[6213:6272:0924/215037.344190:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/215037.344214:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/215547.297482:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/215547.297503:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/215925.466692:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/215925.466712:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/220241.895094:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/220241.895116:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/220418.502787:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/220418.502818:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/220617.761904:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/220617.761928:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/220819.363377:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/220819.363399:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/222257.409206:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/222257.409248:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/222439.396560:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/222439.396597:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/222502.383356:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/222502.383377:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/222641.062482:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/222641.062525:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0924/222907.900590:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/222907.900619:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  3916
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  3917
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  3918
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[24814:24843:0924/223501.097196:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6213:6272:0924/223717.598267:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0924/223717.598290:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:7937:0924/224246.626824:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/224246.627481:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0924/224246.627949:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
