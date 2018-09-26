@@ -3131,3 +3131,652 @@ urxvt: + Minor opcode of failed request:  20
 [6213:7937:0924/224246.626824:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
 [6213:7937:0924/224246.627481:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
 [6213:7937:0924/224246.627949:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:6272:0925/074832.253435:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0925/074832.253462:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0925/074918.219679:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0925/074918.219702:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0925/074941.410202:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0925/074941.410224:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  298748
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  298749
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  298750
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  300239
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  300240
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  300241
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4849923
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4849924
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4849925
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4855963
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4855964
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  4855965
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:7937:0925/080334.233976:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0925/080334.234483:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0925/080334.234892:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6249:6249:0925/081828.529272:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40ce72de00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0925/081828.529562:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x1c40ce72de00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[6249:6249:0925/081828.529811:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40ce72de00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[6249:6249:0925/081828.530261:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x1c40ce72de00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  36275
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  36276
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  36277
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6249:6249:0925/101045.644880:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00382 s, last_timebase_=218299724071 bogo-microseconds, timebase=218347907589 bogo-microseconds, last_media_stream_counter_=9877979, media_stream_counter=9878027
+[6249:6249:0925/101057.668689:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00198 s, last_timebase_=218347907589 bogo-microseconds, timebase=218359931391 bogo-microseconds, last_media_stream_counter_=9878027, media_stream_counter=9878039
+[6249:6249:0925/101145.872379:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00424 s, last_timebase_=218359931391 bogo-microseconds, timebase=218408135092 bogo-microseconds, last_media_stream_counter_=9878039, media_stream_counter=9878087
+[6249:6249:0925/101157.912030:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.0033 s, last_timebase_=218408135092 bogo-microseconds, timebase=218420174738 bogo-microseconds, last_media_stream_counter_=9878087, media_stream_counter=9878099
+[6249:6249:0925/101240.057840:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00347 s, last_timebase_=218420174738 bogo-microseconds, timebase=218462320522 bogo-microseconds, last_media_stream_counter_=9878099, media_stream_counter=9878141
+[6249:6249:0925/101246.074414:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00276 s, last_timebase_=218462320522 bogo-microseconds, timebase=218468337114 bogo-microseconds, last_media_stream_counter_=9878141, media_stream_counter=9878147
+[6249:6249:0925/101252.091361:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00283 s, last_timebase_=218468337114 bogo-microseconds, timebase=218474354074 bogo-microseconds, last_media_stream_counter_=9878147, media_stream_counter=9878153
+[6249:6249:0925/101346.287252:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.985379 s, last_timebase_=218474354074 bogo-microseconds, timebase=218528549966 bogo-microseconds, last_media_stream_counter_=9878153, media_stream_counter=9878208
+[6249:6249:0925/101352.303315:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00268 s, last_timebase_=218528549966 bogo-microseconds, timebase=218534566028 bogo-microseconds, last_media_stream_counter_=9878208, media_stream_counter=9878214
+[6249:6249:0925/101446.513921:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.0039 s, last_timebase_=218534566028 bogo-microseconds, timebase=218588776589 bogo-microseconds, last_media_stream_counter_=9878214, media_stream_counter=9878268
+[6249:6249:0925/101452.525403:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00192 s, last_timebase_=218588776589 bogo-microseconds, timebase=218594788115 bogo-microseconds, last_media_stream_counter_=9878268, media_stream_counter=9878274
+[6249:6249:0925/101546.745381:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00407 s, last_timebase_=218594788115 bogo-microseconds, timebase=218649008095 bogo-microseconds, last_media_stream_counter_=9878274, media_stream_counter=9878328
+[6249:6249:0925/101552.753719:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00139 s, last_timebase_=218649008095 bogo-microseconds, timebase=218655016433 bogo-microseconds, last_media_stream_counter_=9878328, media_stream_counter=9878334
+[6249:6249:0925/101646.974510:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00409 s, last_timebase_=218655016433 bogo-microseconds, timebase=218709237205 bogo-microseconds, last_media_stream_counter_=9878334, media_stream_counter=9878388
+[6249:6249:0925/101652.987983:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00225 s, last_timebase_=218709237205 bogo-microseconds, timebase=218715250690 bogo-microseconds, last_media_stream_counter_=9878388, media_stream_counter=9878394
+[6249:6249:0925/101734.318352:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.997252 s, last_timebase_=218568100357 bogo-microseconds, timebase=218756581061 bogo-microseconds, last_media_stream_counter_=9591338, media_stream_counter=9591527
+[6249:6249:0925/101747.206489:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00405 s, last_timebase_=218715250690 bogo-microseconds, timebase=218769469184 bogo-microseconds, last_media_stream_counter_=9878394, media_stream_counter=9878448
+[6249:6249:0925/101753.224331:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00297 s, last_timebase_=218769469184 bogo-microseconds, timebase=218775487034 bogo-microseconds, last_media_stream_counter_=9878448, media_stream_counter=9878454
+[6249:6249:0925/101847.427642:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.985514 s, last_timebase_=218775487034 bogo-microseconds, timebase=218829690357 bogo-microseconds, last_media_stream_counter_=9878454, media_stream_counter=9878509
+[6249:6249:0925/101853.443379:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.0026 s, last_timebase_=218829690357 bogo-microseconds, timebase=218835705989 bogo-microseconds, last_media_stream_counter_=9878509, media_stream_counter=9878515
+[6249:6249:0925/101947.656207:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00394 s, last_timebase_=218835705989 bogo-microseconds, timebase=218889918906 bogo-microseconds, last_media_stream_counter_=9878515, media_stream_counter=9878569
+[6249:6249:0925/101953.668920:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00212 s, last_timebase_=218889918906 bogo-microseconds, timebase=218895931627 bogo-microseconds, last_media_stream_counter_=9878569, media_stream_counter=9878575
+[6249:6249:0925/102003.252199:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.957048 s, last_timebase_=218895931627 bogo-microseconds, timebase=218905502108 bogo-microseconds, last_media_stream_counter_=9878575, media_stream_counter=9878585
+[6249:6249:0925/102236.369074:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.995385 s, last_timebase_=218894385249 bogo-microseconds, timebase=219058623854 bogo-microseconds, last_media_stream_counter_=9591664, media_stream_counter=9591829
+[6249:6249:0925/130334.394006:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999696 s, last_timebase_=227516021583 bogo-microseconds, timebase=228716656712 bogo-microseconds, last_media_stream_counter_=9942091, media_stream_counter=9943292
+[6249:6249:0925/130930.133494:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00069 s, last_timebase_=228717150764 bogo-microseconds, timebase=229072396203 bogo-microseconds, last_media_stream_counter_=9943292, media_stream_counter=9943647
+[6213:7937:0925/131157.598005:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0925/131157.598323:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[6213:7937:0925/131157.598620:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[25589:25647:0925/131158.426540:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[6249:6249:0925/132154.644978:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.999333 s, last_timebase_=229072396203 bogo-microseconds, timebase=229816899471 bogo-microseconds, last_media_stream_counter_=9943647, media_stream_counter=9944392
+[6249:6249:0925/140027.744963:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00016 s, last_timebase_=232069998076 bogo-microseconds, timebase=232130007618 bogo-microseconds, last_media_stream_counter_=10076075, media_stream_counter=10076135
+[6249:6249:0925/140127.746687:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00003 s, last_timebase_=232130007618 bogo-microseconds, timebase=232190009339 bogo-microseconds, last_media_stream_counter_=10076135, media_stream_counter=10076195
+[6249:6249:0925/140227.749828:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00005 s, last_timebase_=232190009339 bogo-microseconds, timebase=232250012516 bogo-microseconds, last_media_stream_counter_=10076195, media_stream_counter=10076255
+[6249:6249:0925/140327.758331:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00014 s, last_timebase_=232250012516 bogo-microseconds, timebase=232310021004 bogo-microseconds, last_media_stream_counter_=10076255, media_stream_counter=10076315
+[6249:6249:0925/140427.758896:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00001 s, last_timebase_=232310021004 bogo-microseconds, timebase=232370021546 bogo-microseconds, last_media_stream_counter_=10076315, media_stream_counter=10076375
+[6249:6249:0925/140504.145939:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.01075 s, last_timebase_=232370021546 bogo-microseconds, timebase=232406408587 bogo-microseconds, last_media_stream_counter_=10076375, media_stream_counter=10076411
+[6249:6249:0925/140527.765055:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=0.984129 s, last_timebase_=232406408587 bogo-microseconds, timebase=232430027706 bogo-microseconds, last_media_stream_counter_=10076411, media_stream_counter=10076435
+[6249:6249:0925/140618.112475:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00118 s, last_timebase_=232214050352 bogo-microseconds, timebase=232480364240 bogo-microseconds, last_media_stream_counter_=10344277, media_stream_counter=10344543
+[6249:6249:0925/140627.800025:ERROR:sync_control_vsync_provider.cc(141)] Calculated bogus refresh interval=1.00036 s, last_timebase_=232430027706 bogo-microseconds, timebase=232490049166 bogo-microseconds, last_media_stream_counter_=10076435, media_stream_counter=10076495
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1366
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1367
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  1368
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+[6213:6272:0925/195411.436080:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0925/195411.436107:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14217052
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14217053
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14217054
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14218725
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14218726
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14218727
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14222790
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14222791
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14222792
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14224801
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14224802
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14224803
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14229805
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14229806
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14229807
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14238488
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14238489
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14238490
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14241355
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14241356
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14241357
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14249203
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14249204
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14249205
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14253035
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14253036
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14253037
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14258598
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14258599
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14258600
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14260273
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14260274
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14260275
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14264359
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14264360
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14264361
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-10:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14266338
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14266339
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14266340
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14269132
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14269133
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14269134
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14271180
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14271181
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14271182
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14276125
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14276126
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14276127
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-6:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14278412
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14278413
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14278414
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14285374
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14285375
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  14285376
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-8:slant=0:weight=100:minspace=True', ignoring.
+[6213:6228:0925/222006.745800:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.762794:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.796215:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.898637:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.915194:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.933636:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222006.966786:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.034332:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.052020:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.069073:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.085601:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.118846:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6228:0925/222007.151538:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[6213:6272:0926/084117.350520:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0926/084117.350545:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+[6213:6272:0926/084225.097702:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[6213:6272:0926/084225.097730:ERROR:networking_private_linux.cc(739)] Failed to enumerate network devices
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16930020
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16930021
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16930022
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16936189
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16936190
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16936191
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16946796
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16946797
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16946798
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-12:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16950669
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16950670
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  16950671
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: unable to calculate font width for 'Noto Color Emoji-14:slant=0:weight=100:minspace=True', ignoring.
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  542960
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  542961
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
+urxvt: An X Error occurred, trying to continue after report.
+urxvt: + Serial number of failed request:  542962
+urxvt: + X Error of failed request: BadLength (poly request too large or internal Xlib length error)
+urxvt: + Major opcode of failed request:  139
+urxvt: + (which is an unknown extension)
+urxvt: + Minor opcode of failed request:  20
