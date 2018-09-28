@@ -1,5 +1,5 @@
-URxvt.font:		xft:Hack:size=14,xft:Symbola:size=14,xft:Noto Color Emoji:size=14
-URxvt.boldFont:		xft:Hack:size=14:bold,xft:Symbola:size=14
+URxvt*font:		xft:Hack:size=13,xft:Noto Mono for Powerline:size=13,xft:Symbola:size=13,xft:Noto Color Emoji:size=13
+!URxvt.boldFont:		xft:Hack:size=13:bold,xft:Symbola:size=13
 Xft.rgba: rgb
 Xft.antialias: 1
 Xft.hinting: 1
