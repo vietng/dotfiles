@@ -466,6 +466,7 @@
   bre             fr: French (Breton)
   oci             fr: Occitan
   geo             fr: Georgian (France, AZERTY Tskapo)
+  us              fr: French (US keyboard with French letters)
   generic         gh: English (Ghana, multilingual)
   akan            gh: Akan
   ewe             gh: Ewe
@@ -543,6 +544,7 @@
   ruskaz          kz: Russian (Kazakhstan, with Kazakh)
   kazrus          kz: Kazakh (with Russian)
   ext             kz: Kazakh (extended)
+  latin           kz: Kazakh (Latin)
   stea            la: Lao (STEA proposed standard layout)
   nodeadkeys      latam: Spanish (Latin American, no dead keys)
   deadtilde       latam: Spanish (Latin American, dead tilde)
@@ -696,6 +698,8 @@
   mac_intl        gb: English (UK, intl., Macintosh)
   colemak         gb: English (UK, Colemak)
   latin           uz: Uzbek (Latin)
+  us              vn: Vietnamese (US, with Vietnamese letters)
+  fr              vn: Vietnamese (French, with Vietnamese letters)
   kr104           kr: Korean (101/104 key compatible)
   CloGaelach      ie: CloGaelach
   UnicodeExpert   ie: Irish (UnicodeExpert)
@@ -915,7 +919,6 @@
   japan:nicola_f_bs    NICOLA-F style Backspace
   japan:hztg_escape    Make Zenkaku Hankaku an additional Esc
   korean               Korean Hangul/Hanja keys
-  korean:hw_keys       Hardware Hangul/Hanja keys
   korean:ralt_rctrl    Right Alt as Hangul, right Ctrl as Hanja
   korean:rctrl_ralt    Right Ctrl as Hangul, right Alt as Hanja
   esperanto            Adding Esperanto supersigned letters

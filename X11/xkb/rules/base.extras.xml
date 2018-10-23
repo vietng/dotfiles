@@ -578,6 +578,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>unipunct</name>
+            <description>Russian (with US punctuation)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>prxn</name>
             <shortDescription>ru</shortDescription>
             <description>Russian (Polyglot and Reactionary)</description>
@@ -855,6 +861,12 @@
             <description>French (Sun Type 6/7)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>us-alt</name>
+            <description>French (US, with French letters, with dead keys, alternative)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -1107,6 +1119,31 @@
           <configItem>
             <name>sun_type6</name>
             <description>Korean (Sun Type 6/7)</description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+    <layout>
+      <configItem>
+        <name>vn</name>
+        
+        <shortDescription>vi</shortDescription>
+        <description>Vietnamese</description>
+        <languageList>
+          <iso639Id>vie</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>aderty</name>
+            <description>Vietnamese (AÐERTY)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>qderty</name>
+            <description>Vietnamese (QĐERTY)</description>
           </configItem>
         </variant>
       </variantList>

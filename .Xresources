@@ -49,39 +49,88 @@ URxvt.iso14755_52: false
 !URxvt.keysym.Control-Tab: perl:tabbedex:next_tab
 !URxvt.keysym.Control-Shift-Tab: perl:tabbedex:prev_tab
 
-! special
-*.foreground:   #cccccc
-*.background:   #181818
-*.cursorColor:  #cccccc
+!! special
+!*.foreground:   #cccccc
+!*.background:   #181818
+!*.cursorColor:  #cccccc
+!
+!! black
+!*.color0:       #666666
+!*.color8:       #999999
+!
+!! red
+!*.color1:       #cc6699
+!*.color9:       #ff99cc
+!
+!! green
+!*.color2:       #99cc66
+!*.color10:      #ccff99
+!
+!! yellow
+!*.color3:       #cc9966
+!*.color11:      #ffcc99
+!
+!! blue
+!*.color4:       #6699cc
+!*.color12:      #99ccff
+!
+!! magenta
+!*.color5:       #9966cc
+!*.color13:      #cc99ff
+!
+!! cyan
+!*.color6:       #66cc99
+!*.color14:      #99ffcc
+!
+!! white
+!*.color7:       #cccccc
+!*.color15:      #ffffff
+
+! srcery.xresources
+! https://github.com/roosta/vim-srcery
+
+! special colors {{{
+
+*.foreground:   #fce8c3
+*.background:   #1c1b19
+*.cursorColor:  #fce8c3
+
+! }}}
+
+
+! main colors {{{
 
 ! black
-*.color0:       #666666
-*.color8:       #999999
+*.color0:       #1c1b19
+*.color8:       #2D2C29
 
 ! red
-*.color1:       #cc6699
-*.color9:       #ff99cc
+*.color1:       #ef2f27
+*.color9:       #f75341
 
 ! green
-*.color2:       #99cc66
-*.color10:      #ccff99
+*.color2:       #519f50
+*.color10:      #98bc37
 
 ! yellow
-*.color3:       #cc9966
-*.color11:      #ffcc99
+*.color3:       #fbb829
+*.color11:      #fed06e
 
 ! blue
-*.color4:       #6699cc
-*.color12:      #99ccff
+*.color4:       #2c78bf
+*.color12:      #68A8E4
 
 ! magenta
-*.color5:       #9966cc
-*.color13:      #cc99ff
+*.color5:       #e02c6d
+*.color13:      #ff5c8f
 
 ! cyan
-*.color6:       #66cc99
-*.color14:      #99ffcc
+*.color6:       #0aaeb3
+*.color14:      #53fde9
 
 ! white
-*.color7:       #cccccc
-*.color15:      #ffffff
+*.color7:       #918175
+*.color15:      #fce8c3
+
+! }}}
+
