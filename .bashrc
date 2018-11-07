@@ -49,6 +49,12 @@ alias uswkb='~/arch-setup/dotfiles/uswkb.sh'
 alias vwifi='~/arch-setup/scripts/vwifi.sh'
 alias vmount='udisksctl mount -b '
 alias vunmount='udisksctl unmount -b '
+alias worknetwork='sudo netctl stop-all && netctl start work-static'
+alias homenetwork='sudo netctl stop-all && netctl start wlp4s0-Home3' 
+#alias devdiff='git difftool -t vimdiff -y develop..HEAD $2'
+devdiff(){
+git difftool -t vimdiff -y $1..HEAD $2
+}
 durbin(){
 ssh amristar@durbin.amristar.com
 }
@@ -100,5 +106,5 @@ akey(){
 ssh-add $HOME/work/amristar/keys/private-openssh
 ssh-add $HOME/work/amristar/keys/viet-personal-aws.pem
 ssh-add $HOME/work/amristar/keys/viet-personal-new-aws.pem
-#ssh-add $HOME/work/amristar/keys/azure-housing.pem
+ssh-add $HOME/work/amristar/keys/azure-housing.pem
 }  
