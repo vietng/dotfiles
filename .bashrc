@@ -37,11 +37,11 @@ alias studio='cd ~/work/amristar/src/studio'
 alias mpic='cd ~/work/amristar/src/picture'
 alias otp='cd ~/work/amristar/otp/src/OpenTripPlanner'
 alias vwork='xrandr --auto && ~/.screenlayout/work.sh'
-alias vhome='xrandr --auto && ~/.screenlayout/home.sh'
+alias vhome='xrandr --auto && ~/.screenlayout/metabox-home.sh'
 alias vbackup='cd /home/viet/arch-setup/dotfiles && ./backup.sh && cd -'
 alias sc='screen'
 alias xc='xclip'
-alias clr="echo -ne '\\033c'\n"
+alias clr="echo -ne '\\033c'"
 alias gp='grep --color -rni'
 alias mw='i3-msg move workspace to output'
 alias swkb='~/arch-setup/dotfiles/swkb.sh'
@@ -52,6 +52,9 @@ alias vunmount='udisksctl unmount -b '
 alias worknetwork='sudo netctl stop-all && netctl start work-static'
 alias homenetwork='sudo netctl stop-all && netctl start wlp4s0-Home3' 
 #alias devdiff='git difftool -t vimdiff -y develop..HEAD $2'
+myss(){
+maim -s | xclip -selection clipboard -t image/png
+}
 devdiff(){
 git difftool -t vimdiff -y $1..HEAD $2
 }
