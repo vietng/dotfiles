@@ -51,6 +51,8 @@ alias vmount='udisksctl mount -b '
 alias vunmount='udisksctl unmount -b '
 alias worknetwork='sudo netctl stop-all && netctl start work-static'
 alias homenetwork='sudo netctl stop-all && netctl start wlp4s0-Home3' 
+alias movewpleft='~/arch-setup/i3scripts/movewpleft.sh'
+alias movewpright='~/arch-setup/i3scripts/movewpright.sh'
 #alias devdiff='git difftool -t vimdiff -y develop..HEAD $2'
 myss(){
 maim -s | xclip -selection clipboard -t image/png
